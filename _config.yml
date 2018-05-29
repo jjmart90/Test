@@ -14,20 +14,20 @@ description: "Learn how to search in STS journals and library databases"
 keywords: "library instruction, search strategies, citation chaining"
 
 # author settings for cc-by
-author: Jylisa Doney
+author: Jessica Martinez
 pub_year: 2018
-github_username: jylisadoney
+github_username: jjmart90
 
 # add the full url for the github repository
-repo: "https://github.com/jylisadoney/soc-341"
+repo: "https://github.com/jjmart90/Test"
 
 # site urls
 # add the url for the domain,
 # on gh-pages: https://username.github.io 
-url: https://jylisadoney.github.io
+url: https://jjmart90.github.io
 # add subsection of the domain,
 # on gh-pages this is the name of the repository
-baseurl: /soc-341
+baseurl: /Test
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
