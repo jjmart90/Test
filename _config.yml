@@ -27,7 +27,7 @@ repo: "https://github.com/jjmart90/Test"
 url: https://jjmart90.github.io
 # add subsection of the domain,
 # on gh-pages this is the name of the repository
-baseurl: /Test
+baseurl: /Test/
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
