@@ -1,6 +1,6 @@
 # Overcoming Impostor Syndrome
 
-Jekyll repository for the "Overcoming Impostor Syndrome (Summer 2018)" library session at the ULibrary Instruciton West Conference in Summer 2018. Presented by Jessica Martinez and Meredith Forrey 
+Jekyll repository for the "Overcoming Impostor Syndrome (Summer 2018)" library session at the Library Instruciton West Conference in Summer 2018. Presented by Jessica Martinez and Meredith Forrey 
 
 <link to repository>
 
