@@ -8,10 +8,10 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # Site settings
-title: "Overcoming Imposeter Symdrome (Summer 2018)"
+title: "Overcoming Imposter Syndrome"
 # description and keywords for meta tags
 description: "new librarians discuss imposter syndrome in librayr instruction "
-keywords: "library instruction, imposter syndrome, new librarians, successes and failuers "
+keywords: "library instruction, imposter syndrome, new librarians, successes and failures "
 
 # author settings for cc-by
 author: Jessica Martinez
