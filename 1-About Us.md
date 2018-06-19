@@ -1,12 +1,12 @@
 ---
-title: Journals
+title: About Us
 nav: true
 ---
-# Part One: Search in Specific Journals
+# About Us
 
-When doing research, it can often be helpful to start your search within specific journals that are related to your topic or discipline.
+Just two new librarians, trying to make our way in the world.
 
-## Find a journal
+## Jessica
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
 * Click on `Journals` below the search box
 * On the new page, type the `journal name` into the search box
@@ -16,7 +16,7 @@ When doing research, it can often be helpful to start your search within specifi
 * Under `View It`, click the link that provides the access you need (current/historic articles)
 * Enter your `Vandal NetID` if prompted 
 
-## Search in a journal
+## Meredith 
 * Type your `keywords` into the search box
   * Example: vaccines AND opinions AND trust
     * Visit the <a href="https://jylisadoney.github.io/soc-341/4-syntax.html" target="_blank">Search Syntax tab</a> to learn more about `AND`
