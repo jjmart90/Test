@@ -1,10 +1,10 @@
-# Sociology 341 Library Session (Spring 2018)
+# Overcoming Impostor Syndrome
 
-Jekyll repository for the "Sociology 341 Library Session (Spring 2018)" library session at the University of Idaho Library in February 2018.
+Jekyll repository for the "Overcoming Impostor Syndrome (Summer 2018)" library session at the ULibrary Instruciton West Conference in Summer 2018. Presented by Jessica Martinez and Meredith Forrey 
 
 <link to repository>
 
-This library session will teach you how to:
-- search in STS journals and library databases
-- create and modify your search strategies
-- use citation chaining backwards and forwards through a research topic
+This session will address:
+- what is imposter syndrome?
+- how does it affect library instruction?
+- strategies to overcome imposter syndrome
