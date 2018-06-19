@@ -8,10 +8,10 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # Site settings
-title: "Sociology 341 Library Session (Spring 2018)"
+title: "Overcoming Imposeter Symdrome (Summer 2018)"
 # description and keywords for meta tags
-description: "Learn how to search in STS journals and library databases"
-keywords: "library instruction, search strategies, citation chaining"
+description: "new librarians discuss imposter syndrome in librayr instruction "
+keywords: "library instruction, imposter syndrome, new librarians, successes and failuers "
 
 # author settings for cc-by
 author: Jessica Martinez
