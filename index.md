@@ -1,14 +1,11 @@
 ---
 title: Home
 ---
-# Sociology 341 Library Session (Spring 2018)
+# Overcoming Imposter Syndrome
 
-This library session will teach you how to:
-- search in STS journals and library databases
-- create and modify your search strategies
-- use citation chaining backwards and forwards through a research topic
+How to address those pesky feeling of fraudulence as a new library instuctor. 
 
-<a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank">**Questions about this session or content?** 
+<a href="https://vivo.nkn.uidaho.edu/vivo/display/n126420" target="_blank">**Questions about this session or content?** 
 
 <div class="toc" markdown="1">
 ## Contents:
